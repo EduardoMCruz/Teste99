@@ -1,6 +1,3 @@
-# Sobre o projeto
-Essa api tem como objetivo permitir a criação de cômodos de um lar, como cada casa possui quantidade e tipos de cômodos diferente. Apesar de atualmente o projeto como um todo ser pequeno atualmente para a construção de microsserviços, pensei em um caso de uma empresa grande do tipo construtora que executa projetos em diferentes etapas na casa, então essa API poderia ser consumida (como atualmente já é) pela API de aparelhos eletrônicos, mas também posteriormente ser consumida por outras APIs, como por exemplo, encanamentos que estão sendo inseridos em um cômodo, ou os projetos de design de cada cômodo, entre outras possibilidades.
-
 ## Como executar em modo desenvolvimento
 
 
